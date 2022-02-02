@@ -1,0 +1,78 @@
+body {
+  text-align: center
+}
+
+#my_profile_pic {
+  border-radius: 50%;
+  width: 150px
+}
+
+.card {
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 3px 5px 5px #eae4e9
+}
+
+#card-intro {
+  background-color: #eae4e9;
+  margin-top: 30px
+}
+
+#card-social {
+  background-color: #E8E9EB;
+}
+
+h1 {
+  font-family: Roboto;
+  color:  #3e1f47;
+  font-size: 25px;
+  line-height: 40px;
+}
+
+h2 {
+  font-family: 'Karla', sans-serif;;
+  color: #6d6875;
+  font-size: 21px;
+  line-height: 25px
+}
+
+h3 {
+  font-family: 'Karla', sans-serif;;
+  color: #6d6875;
+  font-size: 17px;
+  line-height: 25px
+}
+
+p {
+  font-family: 'Space Mono', monospace;;
+  color: #b5838d;
+  font-size: 18px;
+  line-height: 20px
+}
+
+a {
+  color: #355070;
+  text-decoration: none;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-size: 15px;
+  border: 10px;
+  border-radius: 10%
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+a:hover {
+	background-color: #e5989b
+	}
+
+i {
+  font-size: 42px;
+}
